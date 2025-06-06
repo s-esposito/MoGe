@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Fork
+assets/example_data
+outputs
+
 # User-specific files
 *.rsuser
 *.suo
